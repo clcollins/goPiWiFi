@@ -203,4 +203,4 @@ Anyway, this code can be compiled directly on the Raspberry Pi with `go build -o
 
 Happy Pi Scanning!  May your wifi router not be behind your refrigerator!
 
-_The code used for this article can be found in my Github repo:
+_The code used for this article can be found in my Github repo:_ [https://github.com/clcollins/goPiWiFi](https://github.com/clcollins/goPiWiFi)
